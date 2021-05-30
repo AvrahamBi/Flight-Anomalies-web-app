@@ -1,0 +1,15 @@
+table{
+ position: relative;
+ width: 100%;
+}
+th {
+    font-size: large;
+    background-color:#3f4450;
+}
+tr{
+    font-size: medium;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
