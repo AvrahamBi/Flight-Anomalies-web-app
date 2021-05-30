@@ -13,7 +13,6 @@
 
 ## General info
 This project is a Flight Web based Research Tool.
-Part of Advenced Programing 2 Course at Bar-Ilan University.
 This project was built with two main libraries, "Express" for the server side and "React" for the client side.
 
 
