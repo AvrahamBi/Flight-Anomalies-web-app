@@ -1,4 +1,4 @@
-# Flight Gear Web App
+# Flight Anomalies Web App
 
 ## Table of contents :smile_cat:
 * [General info](#general-info)
