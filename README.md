@@ -12,8 +12,8 @@
 
 
 ## General info
-This project is a Flight Web based Research Tool.
-This project was built with two main libraries, "Express" for the server side and "React" for the client side.
+This project is a Web based Flight Research Tool.
+This project was built with two main libraries, "Express" for server side and "React" for client side.
 
 
 ![](https://i2.paste.pics/C77JW.png?trs=475c231022680624d5590487b5db54382c3c1bd4cf6636753bc4d2d0f400a67e)
@@ -38,8 +38,8 @@ This project was built with two main libraries, "Express" for the server side an
   
 ## File Organiztion
 Project is created with:
-* Client Folder - Contains all the files for the client side.
-* Server Folder - Contains all the the files for the server side.
+* Client Folder - Contains all files for client side.
+* Server Folder - Contains all files for server side.
 
 
 
@@ -48,22 +48,17 @@ Project is created with:
 To start the client and the server please follow this steps:
 1) Download the file project.
 2) Install node.js
-3) At the project folder open the terminal\Command Prompt and type "npm install" the installation process will take few minutes.
+3) At the project folder open the terminal\Command Prompt and type "npm install"', the installation process will take few minutes.
 
 
 
 ## Run
-* at the folder project at the terminal/command prompt type "npm run startclient | npm run startserver" and press "enter".
+* At the project folder at the terminal/command prompt type "npm run startclient | npm run startserver" and press "enter".
 * a new tab at your default browser will open.
 * upload the two csv files, the normal fligt for learning and real time flight for test.
 * "press upload csv files".
 * the result will be shown after few minutes.
 * Enjoy
-
-## UML
-
-
-
 
 
 ## Youtube Video
